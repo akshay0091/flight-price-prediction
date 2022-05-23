@@ -1,0 +1,56 @@
+body{
+  padding: 0px;
+  margin: 0px;
+  scroll-behavior: smooth;
+}
+.header{
+  margin: 0%;
+  padding: 0px;
+  height: 20px;
+}
+.nav{
+  height: 40px;
+}
+.background{
+
+    background-image: url('../image/l-filipe-c-sousa-0nUcd4-pp5k-unsplash.jpg');
+    background-repeat: no-repeat;
+    position: relative;
+    width: 100%;
+    height: 610px;
+    margin-left: auto;
+    margin-right: 0px;
+    margin-top: 20px;
+    padding: 70px;
+  }
+
+
+img{
+  background: fixed;
+  max-width: 100%;
+  height: 1000px;
+  margin: 0px;
+}
+.class{
+  height: 20px;
+}
+.card{
+  
+  display: inline;
+  height: 90px;
+  width: 70px;
+  position: relative;
+  margin: 20px;
+}
+.about{
+  margin: 100px;
+  font-size: larger;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: x-large;
+}
+.submit{
+margin-left: 45%;
+}
+.background_result{
+  margin: 52px;
+}
